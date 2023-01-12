@@ -1,0 +1,9 @@
+
+=== Wed Jan 11 12:09:18 2023
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.2d.pixel-perfect from version 4.0.1 to 5.0.0
+  com.unity.ide.rider from version 3.0.5 to 3.0.6
