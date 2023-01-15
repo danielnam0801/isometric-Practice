@@ -5,5 +5,11 @@ using UnityEngine.Events;
 
 public class AIBrain : MonoBehaviour
 {
-   
+    [SerializeField] AIState currentState;
+
+
+    public void ChangeState(AIState state)
+    {
+        currentState = state;
+    }
 }
