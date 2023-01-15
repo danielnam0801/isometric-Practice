@@ -4,13 +4,7 @@ using UnityEngine;
 
 public class AIMovementData : MonoBehaviour
 {
-    public Vector2 direction;
-    public Vector2 beforeDirection;
-
-    public Vector2 pointOfInterest;
-
+    public bool isMoving;
+    public Vector2 movingDir;
     public float speed;
-    public float thinkTime;
-
-
 }
