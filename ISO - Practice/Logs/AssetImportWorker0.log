@@ -134,3 +134,56 @@ System memory in use after: 64.8 MB.
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1746.
 Total: 1.396700 ms (FindLiveObjects: 0.090500 ms CreateObjectMapping: 0.021700 ms MarkObjects: 1.270200 ms  DeleteObjects: 0.013800 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000598 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.585 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1272 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.7 MB.
+System memory in use after: 64.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1749.
+Total: 1.429200 ms (FindLiveObjects: 0.089300 ms CreateObjectMapping: 0.021700 ms MarkObjects: 1.304000 ms  DeleteObjects: 0.012400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1239.017424 seconds.
+  path: Assets/Scripts/AI/AIAction.cs
+  artifactKey: Guid(916e08561b7bfeb49bb347f65b18e2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI/AIAction.cs using Guid(916e08561b7bfeb49bb347f65b18e2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6515c64aae6c32fbd6687c8f8d1ee0c7') in 0.008584 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000556 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.635 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1272 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.8 MB.
+System memory in use after: 64.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1752.
+Total: 1.404000 ms (FindLiveObjects: 0.086500 ms CreateObjectMapping: 0.022200 ms MarkObjects: 1.281400 ms  DeleteObjects: 0.013000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1858.508281 seconds.
+  path: Assets/Scripts/AI/AIAction.cs
+  artifactKey: Guid(916e08561b7bfeb49bb347f65b18e2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AI/AIAction.cs using Guid(916e08561b7bfeb49bb347f65b18e2bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc4428dfff233623d9af1bec76f9c839') in 0.003257 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
